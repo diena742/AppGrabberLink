@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color background_dark
+color seed
+color surface_dark
+drawable ic_launcher
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string downloads
+string grant_permission
+string no_videos
+string overlay_permission
+string overlay_permission_desc
+string settings
+string start_capture
+string stop_capture
+style Theme.AppGrabberLink
+xml backup_rules
+xml data_extraction_rules
