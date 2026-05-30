@@ -1,0 +1,64 @@
+com.appgrabberlink.app-lifecycle-service-2.8.5-0 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\011a7c8ea93aef87da97d4e7db6dd28e\transformed\lifecycle-service-2.8.5\res
+com.appgrabberlink.app-ui-release-1 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\03ff21ef4b76ea0cfc55c9c9a8002c55\transformed\ui-release\res
+com.appgrabberlink.app-work-runtime-ktx-2.9.1-2 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\06dbc24929d40e6fc1a145a7d2c34364\transformed\work-runtime-ktx-2.9.1\res
+com.appgrabberlink.app-emoji2-1.3.0-3 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\08c8e616d70069639794458034e86d32\transformed\emoji2-1.3.0\res
+com.appgrabberlink.app-core-ktx-1.13.1-4 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\0f45362ad2fd6617291641eb1f7df6f8\transformed\core-ktx-1.13.1\res
+com.appgrabberlink.app-annotation-experimental-1.4.1-5 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\1871deb453d3a65f66baf512ce9b3bb4\transformed\annotation-experimental-1.4.1\res
+com.appgrabberlink.app-ui-geometry-release-6 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\1962334c65702637098eb21253e0130b\transformed\ui-geometry-release\res
+com.appgrabberlink.app-lifecycle-viewmodel-ktx-2.8.5-7 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\1965be4a0ead39e84dc97b095fc81f3a\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+com.appgrabberlink.app-lifecycle-livedata-2.8.5-8 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\19dec9ceb9a5d52be793acedf8fb3568\transformed\lifecycle-livedata-2.8.5\res
+com.appgrabberlink.app-material-icons-extended-release-9 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\1a44c90c6de0a1eb48e71ff5fe1c9475\transformed\material-icons-extended-release\res
+com.appgrabberlink.app-customview-poolingcontainer-1.0.0-10 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\1eee6c4e4fae32f2dd1cb99d2910a13e\transformed\customview-poolingcontainer-1.0.0\res
+com.appgrabberlink.app-runtime-release-11 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\20fad42d4eb05a6fe5df92fe4147af41\transformed\runtime-release\res
+com.appgrabberlink.app-navigation-common-2.8.2-12 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\23069e4ed3cc9b4111280e3618fec4e2\transformed\navigation-common-2.8.2\res
+com.appgrabberlink.app-material-release-13 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\2443095d4ec71066c58390e8ea9d6454\transformed\material-release\res
+com.appgrabberlink.app-activity-1.9.2-14 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\2bf1d7877d990c771b0847eb6cab6883\transformed\activity-1.9.2\res
+com.appgrabberlink.app-navigation-runtime-2.8.2-15 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\3261416e4afe290bbbf00d3f57d5469f\transformed\navigation-runtime-2.8.2\res
+com.appgrabberlink.app-navigation-common-ktx-2.8.2-16 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\351dd7e6fd5db87616a6c2a1e5ab28ca\transformed\navigation-common-ktx-2.8.2\res
+com.appgrabberlink.app-core-runtime-2.2.0-17 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\3be703c6b953ed195330db14e97fb469\transformed\core-runtime-2.2.0\res
+com.appgrabberlink.app-lifecycle-viewmodel-release-18 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\49367f6c6fcbf87d3656113c359d6f04\transformed\lifecycle-viewmodel-release\res
+com.appgrabberlink.app-navigation-compose-2.8.2-19 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\4b28750769faa2cb1658a04e1727f711\transformed\navigation-compose-2.8.2\res
+com.appgrabberlink.app-room-runtime-2.5.0-20 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\4bcf2c9bdf8cb590b9927a2d5e73b848\transformed\room-runtime-2.5.0\res
+com.appgrabberlink.app-animation-release-21 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\505361bc42ceff511289b7055eb7f9b8\transformed\animation-release\res
+com.appgrabberlink.app-animation-core-release-22 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\510824278c7dc3853dd325cc52e64d5e\transformed\animation-core-release\res
+com.appgrabberlink.app-lifecycle-runtime-release-23 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\5744e90fec7c79f834da16850063613d\transformed\lifecycle-runtime-release\res
+com.appgrabberlink.app-savedstate-1.2.1-24 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\5d02fc12a3e20fd68aa81ab01af7b49e\transformed\savedstate-1.2.1\res
+com.appgrabberlink.app-ui-graphics-release-25 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\639c284b33fe10a0884b10751f2d4f3c\transformed\ui-graphics-release\res
+com.appgrabberlink.app-savedstate-ktx-1.2.1-26 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\65432e0c75bd407ebe00f13ad69a86af\transformed\savedstate-ktx-1.2.1\res
+com.appgrabberlink.app-profileinstaller-1.3.1-27 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\70bef416e3d5bb7b61bd430eec930015\transformed\profileinstaller-1.3.1\res
+com.appgrabberlink.app-lifecycle-viewmodel-compose-release-28 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\7b005618ee92e4fd7129bd8d1bf328f6\transformed\lifecycle-viewmodel-compose-release\res
+com.appgrabberlink.app-ui-tooling-preview-release-29 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\7f0c947b7e0864a98bec66e6c6869aa1\transformed\ui-tooling-preview-release\res
+com.appgrabberlink.app-activity-compose-1.9.2-30 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\82c06d6d673f123058b0d14d3d685615\transformed\activity-compose-1.9.2\res
+com.appgrabberlink.app-material3-release-31 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\8fa0a283808f3d1f3c48f8038020d9c0\transformed\material3-release\res
+com.appgrabberlink.app-ui-text-release-32 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\8ffea2e1d314b29ee892c34c0c75c6f3\transformed\ui-text-release\res
+com.appgrabberlink.app-lifecycle-viewmodel-savedstate-2.8.5-33 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\9152ec7ad68efdea19f6449cc1a22f4c\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+com.appgrabberlink.app-core-1.13.1-34 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\9292ce29440f28cdd77b3d3d7f0bacc4\transformed\core-1.13.1\res
+com.appgrabberlink.app-lifecycle-livedata-core-2.8.5-35 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\98328c8a0ec594bac0c280ee35dbc720\transformed\lifecycle-livedata-core-2.8.5\res
+com.appgrabberlink.app-runtime-saveable-release-36 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\a2b4d355b4fcdca0bb0cc07892a98929\transformed\runtime-saveable-release\res
+com.appgrabberlink.app-lifecycle-process-2.8.5-37 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\abe51429ad7a3c45dbb370de6f60f58b\transformed\lifecycle-process-2.8.5\res
+com.appgrabberlink.app-sqlite-framework-2.3.0-38 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\b1c03508056e35ea055bc988d5b74696\transformed\sqlite-framework-2.3.0\res
+com.appgrabberlink.app-foundation-release-39 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\b3bd34c69299031314df408132a2ed82\transformed\foundation-release\res
+com.appgrabberlink.app-activity-ktx-1.9.2-40 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\b438bfc32be0bbecfbddff72e85a4be3\transformed\activity-ktx-1.9.2\res
+com.appgrabberlink.app-lifecycle-runtime-ktx-release-41 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\b51fdfe77b5cf64caf9243672c7c60f8\transformed\lifecycle-runtime-ktx-release\res
+com.appgrabberlink.app-graphics-path-1.0.1-42 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\c26938e69b1574c00e947e9f2b8d17a0\transformed\graphics-path-1.0.1\res
+com.appgrabberlink.app-ui-unit-release-43 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\ca40f58cfdb1327d6ba2f53eb59aaa24\transformed\ui-unit-release\res
+com.appgrabberlink.app-sqlite-2.3.0-44 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\cab316f81338ae0738b78ff894f13ebf\transformed\sqlite-2.3.0\res
+com.appgrabberlink.app-navigation-runtime-ktx-2.8.2-45 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\cf3d594a687a1746527aed564040d4c6\transformed\navigation-runtime-ktx-2.8.2\res
+com.appgrabberlink.app-room-ktx-2.5.0-46 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\d250c0deae97d2b8f9094755da8292e4\transformed\room-ktx-2.5.0\res
+com.appgrabberlink.app-material-ripple-release-47 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\d366727c517347d2ebb3c1da1690da21\transformed\material-ripple-release\res
+com.appgrabberlink.app-lifecycle-runtime-compose-release-48 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\d47e074058b4a536aba360a7e0869275\transformed\lifecycle-runtime-compose-release\res
+com.appgrabberlink.app-work-runtime-2.9.1-49 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\d620ff049651f7e4424853a865ea3f01\transformed\work-runtime-2.9.1\res
+com.appgrabberlink.app-lifecycle-livedata-core-ktx-2.8.5-50 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\da7a5efc2df29a4c812a86f296bf8c5e\transformed\lifecycle-livedata-core-ktx-2.8.5\res
+com.appgrabberlink.app-startup-runtime-1.1.1-51 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\e26ad9d477e70b6aa4255927db3b5c85\transformed\startup-runtime-1.1.1\res
+com.appgrabberlink.app-foundation-layout-release-52 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\ebbe385c7f2ec5d966d0af79e3510371\transformed\foundation-layout-release\res
+com.appgrabberlink.app-ui-tooling-release-53 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\f22e26a9cd1eddb421840a89d4158bf3\transformed\ui-tooling-release\res
+com.appgrabberlink.app-ui-tooling-data-release-54 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\f986af3b41fd6ff4483930537d6b8600\transformed\ui-tooling-data-release\res
+com.appgrabberlink.app-ui-util-release-55 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\fac27973b9c3af72569721775d565611\transformed\ui-util-release\res
+com.appgrabberlink.app-material-icons-core-release-56 C:\Users\RUMAH LAPTIOP\.gradle\caches\8.11.1\transforms\fd2827a740dd1fc5e67ca6099e90afb7\transformed\material-icons-core-release\res
+com.appgrabberlink.app-pngs-57 C:\Users\RUMAH LAPTIOP\Documents\PROJECT ANTIGRAVITY 2026\AppGrabberLink\app\build\generated\res\pngs\debug
+com.appgrabberlink.app-resValues-58 C:\Users\RUMAH LAPTIOP\Documents\PROJECT ANTIGRAVITY 2026\AppGrabberLink\app\build\generated\res\resValues\debug
+com.appgrabberlink.app-packageDebugResources-59 C:\Users\RUMAH LAPTIOP\Documents\PROJECT ANTIGRAVITY 2026\AppGrabberLink\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.appgrabberlink.app-packageDebugResources-60 C:\Users\RUMAH LAPTIOP\Documents\PROJECT ANTIGRAVITY 2026\AppGrabberLink\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.appgrabberlink.app-debug-61 C:\Users\RUMAH LAPTIOP\Documents\PROJECT ANTIGRAVITY 2026\AppGrabberLink\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.appgrabberlink.app-debug-62 C:\Users\RUMAH LAPTIOP\Documents\PROJECT ANTIGRAVITY 2026\AppGrabberLink\app\src\debug\res
+com.appgrabberlink.app-main-63 C:\Users\RUMAH LAPTIOP\Documents\PROJECT ANTIGRAVITY 2026\AppGrabberLink\app\src\main\res
