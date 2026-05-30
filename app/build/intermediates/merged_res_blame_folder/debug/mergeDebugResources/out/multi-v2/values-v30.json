@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.appgrabberlink.app-mergeDebugResources-59:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RUMAH LAPTIOP\\.gradle\\caches\\8.11.1\\transforms\\8fa0a283808f3d1f3c48f8038020d9c0\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
